@@ -29,10 +29,11 @@ As histórias de usuário (*user stories*) foram criadas para representar o back
 
 | **User Story** | **Critérios de Aceite** |
 | --- | --- |
-| Como voluntário, Eu quero ser capaz de adicionar meus dados básicos no aplicativo, Para efetuar o cadastro. | - Validar a existência dos dados cadastrados.<br>- Verificar a formatação dos dados. |
+| Como voluntário,<br>Eu quero ser capaz de adicionar meus dados básicos no aplicativo,<br>Para efetuar o cadastro. | - Validar a existência dos dados cadastrados.<br>- Verificar a formatação dos dados. |
 
 ## Login
 
 | **User Story** | **Critérios de Aceite** |
 | --- | --- |
-| Como voluntário, Eu quero ser capaz de efetuar login, Para utilizar as funcionalidades do aplicativo. | - Possuir cadastro. |
+| Como voluntário,<br>Eu quero ser capaz de efetuar login,<br>Para utilizar as funcionalidades do aplicativo. | - Possuir cadastro. |
+
