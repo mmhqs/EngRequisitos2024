@@ -3,13 +3,13 @@
 Disciplina: Engenharia de Requisitos
 
 Grupo:
-- David Leong
-- Érica Alves
-- Joana
-- Luís Miguel
+- David Leong Ho
+- Erica Alves dos Santos
+- Joana Iuna de Morais
+- Luís Miguel Souza Almeida
 - Mariana Almeida Henriques
-- Victor
-- Vinícius
+- Victor Augusto Nascimento
+- Vinicius Gabriel Romie Vieira
 
 
 ## Processos de negócios
