@@ -2,7 +2,7 @@
 
 Disciplina: Engenharia de Requisitos
 
-Grupo:
+## Integrantes do grupo:
 - David Leong Ho
 - Erica Alves dos Santos
 - Joana Iuna de Morais
@@ -11,6 +11,8 @@ Grupo:
 - Victor Augusto Nascimento
 - Vinicius Gabriel Romie Vieira
 
+## Introdução
+No presente trabalho, será apresentada a primeira entrega do trabalho final da disciplina de Engenharia de Requisitos, ministrada pela professora Michelle Hanne.
 
 ## Processos de negócios
 Os processos de negócios apresentados no problema são:
