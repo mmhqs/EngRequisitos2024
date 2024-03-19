@@ -18,7 +18,7 @@ Os processos de negócios apresentados no problema são:
 2. Criar Projeto Social
 3. Realizar ação ou evento social
 
-Para cada um destes processos foi realizada a modelagem BPNM, que está apresentada na pasta Processos de negócio no presente repositório.
+Para cada um destes processos foi realizada a modelagem BPNM, que está apresentada na pasta [Processos de negócio](https://github.com/mmhqs/EngRequisitos2024/tree/d46c1e8c4e97c88a7c1d65622497d415330823c7/docs/Processos%20de%20neg%C3%B3cio) no presente repositório.
 
 ## Visão geral de requisitos
 
