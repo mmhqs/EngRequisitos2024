@@ -14,9 +14,11 @@ Grupo:
 
 ## Processos de negócios
 Os processos de negócios apresentados no problema são:
-1. XXXXX
-2. XXXX
-3. XXX
+1. Cadastrar Pessoa Física ou Organização Não-Governamental (ONG)
+2. Criar Projeto Social
+3. Realizar ação ou evento social
+
+Para cada um destes processos foi realizada a modelagem BPNM, que está apresentada na pasta Processos de negócio no presente repositório.
 
 ## Visão geral de requisitos
 
