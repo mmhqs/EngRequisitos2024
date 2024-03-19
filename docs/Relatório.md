@@ -25,18 +25,16 @@ Para cada um destes processos foi realizada a modelagem BPNM, que está apresent
 ## Visão geral de requisitos
 A visão geral dos requisitos está apresentada no diretório [Documento de visão](https://github.com/mmhqs/EngRequisitos2024/tree/29a904a920492e1e7a74ea849d950ea8c435d2c7/docs/Documento%20de%20vis%C3%A3o) no presente repositório.
 
-## Histórias de usuário
+## *Backlog* de Requisitos - *User Stories* em *Cards*
 As histórias de usuário (*user stories*) foram criadas para representar o backlog dos requisitos priorizados. Foram definidas XX histórias de usuário, que são apresentadas a seguir.
 
-# Backlog de Requisitos - User Stories em Cards
-
-## Cadastro
+### Cadastro
 
 | **User Story** | **Critérios de Aceite** |
 | --- | --- |
 | Como voluntário,<br>Eu quero ser capaz de adicionar meus dados básicos no aplicativo,<br>Para efetuar o cadastro. | - Validar a existência dos dados cadastrados.<br>- Verificar a formatação dos dados. |
 
-## Login
+### Login
 
 | **User Story** | **Critérios de Aceite** |
 | --- | --- |
